@@ -2,7 +2,7 @@
 server:
   port: 8022
 spring:
-  #给项目来个名字
+  # 给项目来个名字
   application:
     name: rabbitmq-consumer
   #MQ配置信息
